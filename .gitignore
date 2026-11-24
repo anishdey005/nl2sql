@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing and Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Interview and project guides
+INTERVIEW_GUIDE.md
+PROJECT_INTERVIEW_GUIDE.md
+PROJECT_INTERVIEW_GUIDE.pdf
+*interview_guide*.md
+*interview_guide*.pdf
